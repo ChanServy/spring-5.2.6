@@ -1,4 +1,4 @@
-Spring Framework
+# Spring Framework
 
 This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects are often referred to simply as "Spring". 
 
